@@ -9,4 +9,4 @@ Proporcionar insights valiosos para apoiar decisões de investimento no mercado 
 Promover uma compreensão mais profunda sobre o uso de redes neurais em finanças e suas aplicações práticas.
 ## Tecnologias Utilizadas
 <strong>Linguagem de Programação:</strong> Python <br>
-<strong>Bibliotecas Principais:</strong> TensorFlow e outras bibliotecas de aprendizado de máquina.
+<strong>Bibliotecas Principais:</strong> TensorFlow, Sklearn, Pandas e NumPy.

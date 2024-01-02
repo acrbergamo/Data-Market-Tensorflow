@@ -1,9 +1,12 @@
-# Data Market Tensorflow
+# <strong>Data Market Tensorflow</strong>
+### Projeto de Previsão de Preços com Redes Neurais Tensorflow para Minicontrato do Índice Bovespa (Mini-IBOV)
 
-Projeto de Previsão de Preços de Instrumentos Financeiros listados em bolsa com Redes Neurais Tensorflow
+Este projeto visa criar e aprimorar uma rede neural para prever os preços futuros de ativos financeiros relacionados ao minicontrato do índice da Bolsa de Valores de São Paulo (Mini-IBOV). A utilização de tecnologias como TensorFlow e Python permite a construção e treinamento eficaz de modelos preditivos.
 
-Este projeto tem como objetivo desenvolver uma rede neural para prever os preços futuros do ativos financeiros relativos ao minicontrato (contrato fracionário) do indice da bolsa de valores de Sâo Paulo (Mini-IBOV), proporcionando insights valiosos para tomadas de decisão no mercado. Utilizaremos a linguagem de programação Python e bibliotecas poderosas de aprendizado de máquina para construir e treinar nosso modelo preditivo.
-
-Ao final deste projeto, esperamos não apenas fornecer uma ferramenta funcional de previsão de preços, mas também promover uma compreensão mais profunda sobre o uso de redes neurais em finanças e suas aplicações práticas.
-
-Sinta-se à vontade para explorar o código-fonte e os resultados no repositório associado. Contribuições e feedback são sempre bem-vindos!
+## Objetivos do Projeto
+Desenvolver uma ferramenta de previsão de preços funcional e eficiente.
+Proporcionar insights valiosos para apoiar decisões de investimento no mercado financeiro.
+Promover uma compreensão mais profunda sobre o uso de redes neurais em finanças e suas aplicações práticas.
+## Tecnologias Utilizadas
+<strong>Linguagem de Programação:</strong> Python
+<strong>Bibliotecas Principais:</strong> TensorFlow e outras bibliotecas de aprendizado de máquina.

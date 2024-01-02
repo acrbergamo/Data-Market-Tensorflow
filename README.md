@@ -8,5 +8,5 @@ Desenvolver uma ferramenta de previsão de preços funcional e eficiente.
 Proporcionar insights valiosos para apoiar decisões de investimento no mercado financeiro.
 Promover uma compreensão mais profunda sobre o uso de redes neurais em finanças e suas aplicações práticas.
 ## Tecnologias Utilizadas
-<strong>Linguagem de Programação:</strong> Python
+<strong>Linguagem de Programação:</strong> Python <br>
 <strong>Bibliotecas Principais:</strong> TensorFlow e outras bibliotecas de aprendizado de máquina.
